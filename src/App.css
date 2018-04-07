@@ -1,0 +1,13 @@
+.navbar{
+  border-radius: 0px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: blue;
+}
+
+body{
+  background-color: ;
+  color:black;
+  font-weight: 5px;
+}
